@@ -1,4 +1,4 @@
-*studetails
+# STUDENT DETAILS
 
-** Aim of the Program
-A HTML program for the student details 
+## Aim of the Project
+A HTML program for Student Details
